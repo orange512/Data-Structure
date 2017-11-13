@@ -71,7 +71,6 @@ int main()
 {
     Linklist h;
     int n;
-    printf("这是一个创建循环链表\n");
     printf("请输入你要创建的循环链表个数\n");
     scanf("%d",&n);
     h = Creat_list(n);
